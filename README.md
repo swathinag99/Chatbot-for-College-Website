@@ -5,7 +5,7 @@
 <br><b>Reference:</b> Dlithe</br>
 <br><b>Website:</b> www.dlithe.com</br>
 <br><b>Project done under the guidance of:</b> Dlithe</br>
-<br><b>Done by:</b> SWATHI N 1AT17CS090</br>
+<br><b>Done by:</b> SWATHI N </br>
 <br><b>Chatbot for College Website Information using NLTK for Machine Learning</b></br>
 <br><p>
 
