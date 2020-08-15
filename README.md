@@ -71,7 +71,7 @@ Inverse data frequency determines the weight of rare words across all documents 
 
 IDF = 1+log(N/n), where, N is the number of documents and n is the number of documents a term t has appeared in.
 
-<b>Document Simiarity</b> is used to generate a response from the bot for input questions by the user. 
+<b>Document Similarity</b> is used to generate a response from the bot for input questions by the user. 
 A function response defined, searches the user’s input for one or more known keywords and returns one of several possible responses. 
 If it doesn’t find the input matching any of the keywords, it returns a response:"I am sorry! I don't know that!"
 
